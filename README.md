@@ -69,7 +69,7 @@ For our demonstration, we created [**Nitya**](https://www.instagram.com/nityaasi
 ---
 
 ## Tech Stack
-- **Frontend**: React, Vite.js
+- **Frontend**: ReactJs, Framer, Canva
 - **Backend**: Flask, Python
 - **AI Models**: Juggernaut GAN, ROOP Face AI, MediaPipe body recognition model
 - **Automation**: ManyChat for automated replies, voice messages
